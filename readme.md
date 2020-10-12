@@ -8,8 +8,3 @@
 - :hammer: Want to create a world
 - :clock10: Start working
 - :clock12: :sleeping:
-
----
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Terencesun&hide=java&layout=compact">
-
